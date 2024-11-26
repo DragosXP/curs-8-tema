@@ -21,5 +21,6 @@ public class BankManager {
         // Testare constructor de copiere
         d3 = new Depozit(d2);
         System.out.println(">> d3\n" + d3 + "\n");
+        // Testing GitHub
     }
 }
